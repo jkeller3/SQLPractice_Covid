@@ -1,0 +1,1 @@
+Practicing data exploration with SQL using the covid data supplied by https://ourworldindata.org/covid-deaths.
